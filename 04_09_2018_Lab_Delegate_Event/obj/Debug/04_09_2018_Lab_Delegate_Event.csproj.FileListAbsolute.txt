@@ -1,0 +1,10 @@
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\04_09_2018_Lab_Delegate_Event\04_09_2018_Lab_Delegate_Event\bin\Debug\04_09_2018_Lab_Delegate_Event.exe.config
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\04_09_2018_Lab_Delegate_Event\04_09_2018_Lab_Delegate_Event\bin\Debug\04_09_2018_Lab_Delegate_Event.exe
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\04_09_2018_Lab_Delegate_Event\04_09_2018_Lab_Delegate_Event\bin\Debug\04_09_2018_Lab_Delegate_Event.pdb
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\04_09_2018_Lab_Delegate_Event\04_09_2018_Lab_Delegate_Event\obj\Debug\04_09_2018_Lab_Delegate_Event.csprojResolveAssemblyReference.cache
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\04_09_2018_Lab_Delegate_Event\04_09_2018_Lab_Delegate_Event\obj\Debug\_04_09_2018_Lab_Delegate_Event.Form1.resources
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\04_09_2018_Lab_Delegate_Event\04_09_2018_Lab_Delegate_Event\obj\Debug\_04_09_2018_Lab_Delegate_Event.Properties.Resources.resources
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\04_09_2018_Lab_Delegate_Event\04_09_2018_Lab_Delegate_Event\obj\Debug\04_09_2018_Lab_Delegate_Event.csproj.GenerateResource.Cache
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\04_09_2018_Lab_Delegate_Event\04_09_2018_Lab_Delegate_Event\obj\Debug\04_09_2018_Lab_Delegate_Event.csproj.CoreCompileInputs.cache
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\04_09_2018_Lab_Delegate_Event\04_09_2018_Lab_Delegate_Event\obj\Debug\04_09_2018_Lab_Delegate_Event.exe
+C:\Users\Sakit\Desktop\ALL\my_works\P-503\Form_App\04_09_2018_Lab_Delegate_Event\04_09_2018_Lab_Delegate_Event\obj\Debug\04_09_2018_Lab_Delegate_Event.pdb
